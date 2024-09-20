@@ -13,7 +13,7 @@ Desenvolvedor Web</h3>
 <br>
 
 <p align="center">
-  <img alt="imagemdoprojeto" src="../cadastro-usuarios/src/assets/imagemDoProjeto.png" width="100%">
+  <img alt="imagemdoprojeto" src="./cadastro-usuarios/src/assets/imagemDoProjeto.png" width="100%">
 </p>
 
 ### 🚀 Tecnologias
